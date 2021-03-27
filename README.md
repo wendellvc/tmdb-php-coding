@@ -24,13 +24,18 @@ with minimal responsiveness
 **- .env **
 **- config/app.php **
     to update the app name
+    
 **- routes/web.php**
     web routes
+    
 **- public/css**
+
 **- public/js**
+
 **- resource/views**
     /views/layout, holds the site view layout blade template
     /views/movies, holds the display/view when displaying movies
+    
 **- app/Http/Controllers**
     MoviesController.php
     tmdb-php-api/tmdb-api.php
