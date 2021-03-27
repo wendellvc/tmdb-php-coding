@@ -21,7 +21,9 @@ with minimal responsiveness
 - where the library was included/require
 
 **Modified/added files with Laravel**
+
 **- .env **
+
 **- config/app.php **
     to update the app name
     
@@ -33,8 +35,9 @@ with minimal responsiveness
 **- public/js**
 
 **- resource/views**
-    /views/layout, holds the site view layout blade template
-    /views/movies, holds the display/view when displaying movies
+    **/views/layout**, holds the site view layout blade template
+    
+    **/views/movies**, holds the display/view when displaying movies
     
 **- app/Http/Controllers**
     MoviesController.php
