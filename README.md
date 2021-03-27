@@ -35,8 +35,8 @@ with minimal responsiveness
 **- public/js**
 
 **- resource/views**
+
     **/views/layout**, holds the site view layout blade template
-    
     **/views/movies**, holds the display/view when displaying movies
     
 **- app/Http/Controllers**
