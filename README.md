@@ -40,9 +40,10 @@ with minimal responsiveness
     **/views/movies**, holds the display/view when displaying movies
     
 **- app/Http/Controllers**
-    MoviesController.php
-    tmdb-php-api/tmdb-api.php
+
+    **MoviesController.php**
+    **tmdb-php-api/tmdb-api.php**
     
 **TMDB API**
-https://www.themoviedb.org/settings/api
+**https://www.themoviedb.org/settings/api**
 where I obtain the API key for this laravel application.
