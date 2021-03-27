@@ -28,6 +28,7 @@ Movies
     border: none;
     overflow: visible;
     box-shadow: none;
+    margin: 0 auto;
 }
 .poster img{
   box-shadow: 0 2px 8px rgb(0 0 0 / 10%);
@@ -94,7 +95,9 @@ Movies
   margin-right: 10px;
   font-weight: 700;
 }
-
+.poster_wrapper{
+  margin-bottom: 15px; 
+}
 .movie_details .release-date {
   font-weight: 700;
 }

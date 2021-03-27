@@ -14,7 +14,7 @@
 
               @foreach($movies as $idx => $movie)
 
-              <div class="col-md-3">
+              <div class="col-xs-6 col-sm-4 col-md-3">
                 <div class="card movie">
                   <div class="poster">
                     <a href="{{ route('movies.show', [$movie->getID()]) }}">
